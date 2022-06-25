@@ -1,0 +1,6 @@
+function download() {
+  window.open(
+    "https://drive.google.com/file/d/1y1kLLRVjXBNHr2KmnaBRP0eHh84Zyaj-/view?usp=sharing",
+    "_blank"
+  );
+};
